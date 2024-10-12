@@ -1,0 +1,2 @@
+This project focuses on RFM (Recency, Frequency, Monetary) analysis for GreenMart, a supermarket with both online and physical stores. The RFM model is used to segment customers based on their purchasing behavior to help GreenMart better understand its customer base and tailor marketing strategies. Click here to read Full project 
+https://medium.com/@eng.awosedok/the-power-of-rfm-in-e-commerce-a-case-study-of-greenmart-0cf7f9a61121
